@@ -1,0 +1,29 @@
+body {
+    margin: 0 auto;
+}
+
+nav {
+    border-bottom: 1px solid grey;
+    opacity: 0.9;
+    display: inline-block;
+}
+
+.nav-link{
+    margin: 4px;
+}
+
+.wallpaper1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.wallpaper2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+}
