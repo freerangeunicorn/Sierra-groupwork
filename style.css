@@ -1,7 +1,21 @@
-.jumbotron{
-    background-color: white;
+.jumbotron-container{
+	color: #365902;
+	background-color: #F2B33D;
+	font: bold;
+	height: 60vh;
+	padding: 20px;
+
+}
+.learn-more{
+	background-color: #365902;
+	border-color: #365902;
+	color: white;
+	
 }
 
+.carousel-caption{
+	color: #BF846F;
+}
 /* Main Footer */
 footer .main-footer{
 	padding: 20px 0;
